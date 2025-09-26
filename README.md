@@ -12,8 +12,6 @@
 [![CSS3](https://img.shields.io/badge/CSS3-Cyberpunk_Theme-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![OMDB API](https://img.shields.io/badge/OMDB-API-FF6B6B?style=flat&logo=api&logoColor=white)](http://www.omdbapi.com/)
 
-**Author:** [Eslam Omar (Xeno)](https://github.com/eslamomar) 🚀
-
 ---
 
 *Discover, rate, and manage your favorite movies with a stunning cyberpunk interface*
@@ -562,18 +560,11 @@ html { font-size: 62.5%; }        /* Desktop: 10px base */
 
 <div align="center">
 
-### 👨‍💻 Author
-
-**Eslam Omar (Xeno)**
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/eslamomar)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/eslamomar)
-
 ### 🌟 Show Your Support
 
 If you found this project helpful, please consider giving it a ⭐!
 
-**Made with ❤️ and ☕ by [Eslam Omar (Xeno)](https://github.com/eslamomar)**
+**Made with ❤️ and ☕ by [Eslam Omar (Xeno)](https://github.com/EslamOmar5012)**
 
 ![usePopcorn](https://img.shields.io/badge/🍿-Happy_Movie_Watching!-00FFFF?style=for-the-badge&labelColor=1a0033)
 
